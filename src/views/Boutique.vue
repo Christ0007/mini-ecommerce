@@ -6,7 +6,7 @@ import Swal from 'sweetalert2'
 const panier = usePanierStore()
 
 const produits = ref([
-  { id: 1, nom: 'Smartphone Galaxy S24', prix: 450000, stock: 10, image: 'public/s24.avif' },
+  { id: 1, nom: 'Smartphone Galaxy S24', prix: 450000, stock: 10, image: 's24.avif' },
   { id: 2, nom: 'Laptop Dell Inspiron',  prix: 850000, stock: 5,  image: 'public/images.jpeg' },
   { id: 3, nom: 'Ecouteurs Bluetooth',   prix: 35000,  stock: 20, image: 'public/image.jpeg' },
   { id: 4, nom: 'PlayStation 2',       prix: 75000,  stock: 8,  image: 'public/air.jpeg' },
