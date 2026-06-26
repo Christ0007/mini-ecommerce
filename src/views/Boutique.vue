@@ -9,8 +9,8 @@ const produits = ref([
   { id: 1, nom: 'Smartphone Galaxy S24', prix: 450000, stock: 10, image: 's24.avif' },
   { id: 2, nom: 'Laptop Dell Inspiron',  prix: 850000, stock: 5,  image: 'images.jpeg' },
   { id: 3, nom: 'Ecouteurs Bluetooth',   prix: 35000,  stock: 20, image: 'image.jpeg' },
-  { id: 4, nom: 'PlayStation 2',       prix: 75000,  stock: 8,  image: 'air.jpeg' },
-  { id: 5, nom: 'Chargeur',         prix: 22000,  stock: 15, image: 'ps2.jpeg' },
+  { id: 4, nom: 'PlayStation 2',       prix: 75000,  stock: 8,  image: 'ps2.jpeg' },
+  { id: 5, nom: 'Air Force',         prix: 22000,  stock: 15, image: 'air.jpeg' },
   { id: 6, nom: 'Lampe de bureau LED',   prix: 15000,  stock: 0,  image: 'led.jpeg' },
 ])
 
